@@ -1,4 +1,4 @@
-# Machine-Learning-Implementations
+# Machine Learning Implementations
 
 ## Decision Trees
 
